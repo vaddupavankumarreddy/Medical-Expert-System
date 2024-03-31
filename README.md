@@ -33,8 +33,3 @@ The important files in this repository are:
 
 ### Disclaimer
 This is just for demonstration purposes. The symptoms and diseases are likely to match. It is an attempt to showcase how powerful these basic systems can get. Please do not use for any medical advice. 
-
-## Team Members
-- Anish Dey
-- Sanjiv Shenoy
-- Srestha Srivastava
